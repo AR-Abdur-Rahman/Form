@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+
+    padding: 0;
+}
+
+*{
+    margin: 0;
+
+    padding: 0;
+}
+
+.form_section{
+
+padding: 102px;
+}
+
+.customise{
+    
+width: 200px;
+    
+height: 30px;
+}
+
+.submit{
+
+    padding: 9px 20px;
+
+    border-radius: 3px;
+}
+
+.form_control {
+    border: 1px solid #cbcbcb;
+    border-radius: 3px;
+    background: #f8f8fa;
+}
+
+form {
+    margin-left: 20px;
+    padding: 30px;
+}
